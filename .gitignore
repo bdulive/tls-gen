@@ -12,3 +12,4 @@ basic/testca/openssl.cnf
 
 __pycache__
 *.pyc
+.DS_Store
